@@ -53,9 +53,9 @@ SCT_DS_Task3/
 - Report summarizing methodology, results, and conclusions  
 
 ---
-
 ## 📌 Status  
-🔄 In Progress — currently setting up repo and project structure.  
+✅ Completed — Exploratory Data Analysis, Preprocessing, Model Training (Logistic Regression, Decision Tree, Random Forest, Gradient Boosting), Hyperparameter Tuning, and Final Evaluation done.
+ 
 
 ---
 
