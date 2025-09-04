@@ -55,6 +55,17 @@ SCT_DS_Task3/
 ---
 ## 📌 Status  
 ✅ Completed — Exploratory Data Analysis, Preprocessing, Model Training (Logistic Regression, Decision Tree, Random Forest, Gradient Boosting), Hyperparameter Tuning, and Final Evaluation done.
+
+
+## 📊 Model Performance (Decision Tree Classifier)
+
+| Metric      | Score  |
+|-------------|--------|
+| Accuracy    | 0.89   |
+| Precision   | 0.76   |
+| Recall      | 0.71   |
+| F1-Score    | 0.73   |
+
  
 
 ---
